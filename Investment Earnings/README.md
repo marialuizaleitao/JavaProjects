@@ -8,7 +8,11 @@
 ## Concepts:
 
 While loop
+
 Break command
+
 If-Else statement
+
 Scanner class
+
 DecimalFormat class
